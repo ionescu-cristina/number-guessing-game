@@ -21,8 +21,11 @@ body {
 p {
   text-align: justify;
 }
-@media (max-width: 576px) {
+@media (max-width: 700px) {
   body {
     text-align: center;
+  }
+  .content {
+    padding: 5px;
   }
 }
