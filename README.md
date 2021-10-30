@@ -10,6 +10,7 @@ Technologies used:
 
 
 
-<img src="https://github.com/ionescu-cristina/number-guessing-game/blob/main/src/assets/images/number-guessing-game-1.png" alt="Number guessing game">
 
-<img src="https://github.com/ionescu-cristina/number-guessing-game/blob/main/src/assets/images/number-guessing-game-2.png" alt="Number guessing game">
+<img src="https://github.com/ionescu-cristina/number-guessing-game/blob/gh-pages/images/number-guessing-game-1.png" alt="Number guessing game">
+
+<img src="https://github.com/ionescu-cristina/number-guessing-game/blob/gh-pages/images/number-guessing-game-2.png" alt="Number guessing game">
