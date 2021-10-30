@@ -1,1 +1,10 @@
-# number-guessing-game
+A guessing game
+
+Technologies used:
+- Bootstrap 5
+- HTMl
+- CSS
+- JS
+
+
+
