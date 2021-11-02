@@ -4,7 +4,7 @@ We have selected a random number between 1 and 100. See if you can guess it in 1
 
 Technologies used:
 - Bootstrap 5
-- HTMl
+- HTML
 - CSS
 - JS
 
